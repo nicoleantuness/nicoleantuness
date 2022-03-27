@@ -3,7 +3,6 @@
 
 
 🌱 Estou estudando JavaScript, CSS e HTML
-😄 Pronomes: Ela/Dela
 
 
 <div align="center">
