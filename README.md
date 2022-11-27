@@ -2,7 +2,7 @@
 
 
 
-🌱 Estou estudando JavaScript, CSS e HTML
+🌱 Estou estudando atualmente Typescript
 
 
 <div align="center">
