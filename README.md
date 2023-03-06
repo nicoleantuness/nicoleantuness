@@ -1,8 +1,8 @@
-### Olá! Eu sou a Nicole Antunes
+### Olá! Eu sou a Nicole Antunes.
 
 
 
-🌱 Estou estudando atualmente Typescript
+
 
 
 <div align="center">
