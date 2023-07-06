@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Nicole Antunes.
 
-
+Atualmente estou estudando PHP
 
 
 
